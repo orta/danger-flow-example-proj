@@ -1,0 +1,11 @@
+[ignore]
+
+[include]
+dangerfile.js
+
+[libs]
+node_modules/danger/distribution/danger.js.flow
+
+[lints]
+
+[options]
